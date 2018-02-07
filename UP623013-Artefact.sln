@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UP623013-Artefact", "UP623013-Artefact.csproj", "{E81DB4F7-58EB-DEE1-51C7-33FAB258341B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UP623013-Artefact.Editor", "UP623013-Artefact.Editor.csproj", "{7907B63D-4766-02F1-7430-0AC66606484D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E81DB4F7-58EB-DEE1-51C7-33FAB258341B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E81DB4F7-58EB-DEE1-51C7-33FAB258341B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E81DB4F7-58EB-DEE1-51C7-33FAB258341B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E81DB4F7-58EB-DEE1-51C7-33FAB258341B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7907B63D-4766-02F1-7430-0AC66606484D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7907B63D-4766-02F1-7430-0AC66606484D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7907B63D-4766-02F1-7430-0AC66606484D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7907B63D-4766-02F1-7430-0AC66606484D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

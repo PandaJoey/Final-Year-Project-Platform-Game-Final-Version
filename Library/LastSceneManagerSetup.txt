@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Joe/Desktop/repos/UnityProjects/udemytextgame/Assets/udemytextgame.unity
+  isLoaded: 1
+  isActive: 1
